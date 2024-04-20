@@ -1,5 +1,6 @@
 import NavBar from './Components/NavBar';
 import Header from './Components/Header';
+import OnlineMenu from "./Components/OnlineMenu"
 import './App.css';
 
 
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <NavBar/>
       <Header/>
+      <OnlineMenu/>
     </div>
   );
 }
