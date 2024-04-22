@@ -34,12 +34,14 @@
     justify-content: center;
     align-items: center;
     padding: 10px;
+    color: white;
 }
 .contact{
     gap:50px;
 }
 .footer-contact{
     padding-left: 35px;
+    color: white;
 }
 .links{
     display: flex;
@@ -57,9 +59,11 @@
     margin-bottom: 65px;
     margin-left: 80px;
     padding-left: 10px;
+    color: white;
 }
 .Social-Media{
     margin-right: 100px;
+    color: white;
 }
 .sm {
     display: flex;
@@ -70,9 +74,11 @@
 .fb, .insta, .twit {
     width: 60px;
     height: 60px;
+    color: white;
 }
 
 .rights{
+    color: white;
     position: absolute;
     bottom: 0;
     right: 60px;
